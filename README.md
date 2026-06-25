@@ -9,6 +9,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Anshucd/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
