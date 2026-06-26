@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshucd/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
