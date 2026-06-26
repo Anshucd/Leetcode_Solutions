@@ -1,7 +1,7 @@
 #include<algorithm>
 class Solution {
 public:
-    void rotate(vector<int>& nums, int k) {
+     vector<int> rotate(vector<int>& nums, int k) {
         // int size=nums.size();
         // if(size==0)
         // return ;
@@ -30,6 +30,10 @@ public:
         int n=nums.size();
         vector<int>ans;
         k=k%n;
+        if(k==0){
+            return nums;
+        }
+
         for(int i=n-k;i<n;i++){
             ans.push_back(nums[i]);
             
@@ -38,6 +42,8 @@ public:
             ans.push_back(nums[i]);
 
         }
+        
+        
         for(int i=0;i<n;i++){
             nums.pop_back();
         }
@@ -45,6 +51,7 @@ public:
         for(int i=0;i<n;i++){
             nums.push_back(ans[i]);
         }
+        return nums;
         
     }
 
