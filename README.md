@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -33,9 +34,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
