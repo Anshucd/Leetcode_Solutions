@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anshucd/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anshucd/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
